@@ -30,4 +30,4 @@ py-modules = ["main", "slack_tools"]
 
 [project.optional-dependencies]
 dev = ["ruff>=0.12.4"]
-test = ["pytest>=8.0.0"]
+test = ["pytest>=9.0.3"]
